@@ -1,4 +1,3 @@
-pyscopg
 psycopg[binary]
 google-generativeai
 pillow
