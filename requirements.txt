@@ -1,1 +1,4 @@
-
+pyscopg
+google-generativeai
+pillow
+reportlab
