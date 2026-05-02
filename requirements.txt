@@ -1,4 +1,4 @@
-psycopg[binary]
+psycopg
 google-generativeai
 pillow
 reportlab
